@@ -138,6 +138,10 @@ a.nav-link.active{
         text-align: center;
         margin: 4rem 0;
     }
+    
+    .hero-content hr{
+        margin: auto;
+    }
 
     .hero-img{
         width: 400px;
